@@ -9,7 +9,7 @@ const AboutWow = () => {
       <h2 className='bg-[#067f201f] w-fit px-4 sm:text-sm py-1 rounded-[20px] mx-auto'>About WowChristmas
       </h2>
       <h2 className='text-center font-medium text-4xl sm:text-xl my-2'>Celebrate the Spirit of Christmas with WowChristmas</h2>
-      <h2 className='text-center text-[#000000b3] sm:text-sm font-normal sm:w-[80%] sm:mx-auto'>Discover the key features that make our breakdown recovery app your go-to solution for <br className='sm:hidden' /> roadside assistance</h2>
+      
       <section className='flex sm:flex-col sm:gap-5 mt-20 sm:mt-10 w-[70%] md-2:w-[90%] mx-auto justify-between'>
                 <div className='bg-white w-[40%] sm:hidden sm:w-full md-2:w-[50%] flex justify-center items-center pt-10 rounded-xl'>
                     <img className='h-[460px] sm:h-[300px]' src={img1} alt="Quick Assistance Image" />
