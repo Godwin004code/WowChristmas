@@ -6,7 +6,7 @@ const Blog = () => {
   return (
     <div className='mb-20'> 
          
-        <div className='w-[90%] mx-auto gap-10 flex justify-between sm:flex-col md:w-full'>
+        <div className='w-[90%] mx-auto gap-10 flex justify-between sm:flex-col '>
                 <img src={img} alt="" className='h-[450px] sm:h-[200px] w-full rounded-[20px] object-cover' />
                 <div className='flex mt-3'>
                     
