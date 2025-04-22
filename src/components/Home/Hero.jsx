@@ -20,7 +20,7 @@ const Hero = () => {
     setTimeout(() => setAnimateImg(true), 1500);
   }, []);
   return (
-    <section className='mx-10 sm:mx-5 mt-10 px-10 sm:px-5 py-12 bg-white flex md-2:gap-5 md-2:flex-col justify-between rounded-2xl'>
+    <section className='mx-10 sm:mx-5 mt-10 px-10 sm:px-5 py-12 bg-white flex md-2:gap-5 md-2:flex-col justify-between rounded-2xl visible'>
       <div className='my-auto'>
         <h2 className="font-medium sm:text-center sm:text-3xl text-7xl " > <h2 className={` transition-all duration-700 ease-in-out ${animateH1 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
           }`}>Bringing Back the  </h2>

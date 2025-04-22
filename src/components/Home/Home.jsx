@@ -12,7 +12,7 @@ import Blog from "./Blog"
 
 const Home = () => {
   return (
-    <section className='bg-[#f0f5f0] w-full pt-7 h-full'>
+    <section className=' w-full pt-7 h-full'>
     <Nav />
     <Hero />
     <AboutWow />
